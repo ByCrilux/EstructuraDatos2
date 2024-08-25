@@ -1,5 +1,5 @@
 class Calculator():
-    """"Una simple calculadora que realiza operaciones básicas"""
+    """"Una simple calculadora que realiza operaciones básicas cambio"""
     def __init__(self):
         self._a = 0
         self._b = 0

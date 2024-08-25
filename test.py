@@ -1,6 +1,7 @@
 from ClaseCalculadoraSimple import Calculator
 arit = Calculator()
 print(f"1 sumar\n2 restar\n3 multiplicar\n4 dividir\n5 salir")
+"introduccion de valores"
 valor_1 = float(input("introducir valor 1: "))
 valor_2 = float(input("introducir valor 2: "))
 arit.pedir_valores(valor_1, valor_2)
